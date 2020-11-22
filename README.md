@@ -25,6 +25,9 @@ The screenshot of the Dynamodb table is uploaded here -> https://natural-test-82
 
 In order to launch the project locally you should install the dependencies and start the project:
 `yarn` or `npm install`
+
+### It will say that there is a vulnerability, its because of the react-scripts but i had to use this version because of a bug with ts
+
 And then
 `yarn start` or `npm run start`
 
